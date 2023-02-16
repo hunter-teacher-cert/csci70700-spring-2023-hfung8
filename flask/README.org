@@ -3,6 +3,6 @@ Project url: https://replit.com/@HarrisonFung1/Flask-project
 Repl link : https://Flask-project.harrisonfung1.repl.co
 
 routes used : 
-'/'. 
-'/unit1'. 
+'/'<br>
+'/unit1'<br> 
 '/vocab'
