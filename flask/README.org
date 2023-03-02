@@ -6,3 +6,11 @@ routes used :
 a) '/'
 b) '/unit1' 
 c) '/vocab'
+
+Flask part 2 additions: 
+
+d) '/status' route used to check if you are in secret room. 
+e) '/login' form page for the login part 
+
+I made this part with very little css compared to the first flask assignment. It was harder for me to complete it. 
+
