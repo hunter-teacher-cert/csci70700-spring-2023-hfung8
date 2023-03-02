@@ -13,4 +13,5 @@ d) '/status' route used to check if you are in secret room.
 e) '/login' form page for the login part 
 
 I made this part with very little css compared to the first flask assignment. It was harder for me to complete it. 
+Also, you will need to copy and paste the url into the browser for it to work. 
 
